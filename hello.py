@@ -1,2 +1,6 @@
-print("hello world")
-
+print("xD nice try, but Serega is smorty dude :^)")
+print("xD nice try, but Serega is smorty dude :^)")
+print("xD nice try, but Serega is smorty dude :^)")
+print("xD nice try, but Serega is smorty dude :^)")
+print("xD nice try, but Serega is smorty dude :^)")
+print("xD nice try, but Serega is smorty dude :^)")
