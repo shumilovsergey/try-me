@@ -3,5 +3,5 @@ version: '3.8'
 
 services:
   hello-world:
-    image: your-docker-username/hello-world:latest
+    image: wumilovsergey/hello-world:latest
     container_name: hello-world-container
